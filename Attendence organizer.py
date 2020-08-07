@@ -1,6 +1,6 @@
 import openpyxl
 
-path1=input("enter your downloaded attendence file location: ")
+path1=input("enter your downloaded attendance file location: ")
 path2=input("enter your class data file location: ")
 wb_obj1 = openpyxl.load_workbook(path1)
 sheet_obj1 = wb_obj1.active
