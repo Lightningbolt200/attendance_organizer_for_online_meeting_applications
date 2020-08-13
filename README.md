@@ -1,6 +1,6 @@
 # attendance_organizer_for_online_meeting_applications
 
-This Python3 code will be useful for the subjext teachers, class teachers of the schools , colleges organizing classess using the online meeting tools such as microsoft teams,etc.
+This Python3 code will be useful for the subject teachers, class teachers of the schools , colleges organizing classess using the online meeting tools such as microsoft teams,etc.
 
 Prerequisite:
             During the online meeting the file which is downloaded as .csv should be converted to .xlsx .
